@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018027355323",
+    "project_id": "testing-d4370",
+    "storage_bucket": "testing-d4370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018027355323:android:34da2af4fbc3498dcf8d9e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018027355323-k6jdtl46utsih2idd8ccc1mi17jpc3nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGftc9SEAEq4h-HcHb30TgPLuug4owak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018027355323-k6jdtl46utsih2idd8ccc1mi17jpc3nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
